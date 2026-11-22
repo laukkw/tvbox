@@ -1,5 +1,5 @@
 {
-  "spider": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/jar/fan.txt",
+  "spider": "https://gcore.jsdelivr.net/gh/qist/tvbox@master/jar/fan.txt",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -464,8 +464,8 @@
       "key": "虎牙js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/FTY/drpy2.min.js",
-      "ext": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/FTY/%E8%99%8E%E7%89%99.js",
+      "api": "https://gcore.jsdelivr.net/gh/qist/tvbox@master/FTY/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/qist/tvbox@master/FTY/%E8%99%8E%E7%89%99.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -480,8 +480,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/FTY/drpy2.min.js",
-      "ext": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/FTY/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js",
+      "api": "https://gcore.jsdelivr.net/gh/qist/tvbox@master/FTY/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/qist/tvbox@master/FTY/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -608,8 +608,8 @@
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/FTY/drpy2.min.js",
-      "ext": "https://fastly.jsdelivr.net/gh/qist/tvbox@master/FTY/%25E5%2585%2594%25E5%25B0%258F%25E8%25B4%259D.js",
+      "api": "https://gcore.jsdelivr.net/gh/qist/tvbox@master/FTY/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/qist/tvbox@master/FTY/%25E5%2585%2594%25E5%25B0%258F%25E8%25B4%259D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -707,13 +707,13 @@
     {
       "name": "📺 央卫综合 (IPv4+IPv6)",
       "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/itv.m3u",
+      "url": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/itv.m3u",
       "playerType": 1
     },
     {
       "name": "📺 央卫IPv6超清",
       "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/ipv6.m3u",
+      "url": "https://gcore.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/ipv6.m3u",
       "playerType": 1
     },
     {
@@ -743,7 +743,7 @@
     {
       "name": "🌐 Kimentanm 全球综合",
       "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/iptv.m3u",
+      "url": "https://gcore.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/iptv.m3u",
       "playerType": 2
     }
   ],
